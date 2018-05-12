@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '6439'
     url: http://www.gutenberg.org/2009/agents/6439
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45159#Jal-lu-d-d-n-R-m-The-Persian-Mystics
 gutenberg_issued: '2014-03-17'
 gutenberg_type: Text
 identifiers:
