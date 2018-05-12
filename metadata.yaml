@@ -1,0 +1,41 @@
+_repo: Jal-lu-d-d-n-R-m-The-Persian-Mystics_45159
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45159-h/images/cover_rumi.jpg
+creator:
+  author:
+    agent_name: Jalal al-Din Rumi, Maulana
+    alias: Rumi
+    birthdate: 1207
+    deathdate: 1273
+    gutenberg_agent_id: '43130'
+    url: http://www.gutenberg.org/2009/agents/43130
+    wikipedia: https://en.wikipedia.org/wiki/Rumi
+  editor:
+    agent_name: Davis, F. Hadland (Frederick Hadland)
+    alias: Davis, Frederick Hadland
+    gutenberg_agent_id: '6439'
+    url: http://www.gutenberg.org/2009/agents/6439
+description: ''
+gutenberg_issued: '2014-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45159'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sufism'
+- !lcsh 'Jalal al-Din Rumi, Maulana, 1207-1273'
+- !lcsh 'Persian literature -- History and criticism'
+- !lcsh 'Mysticism in literature'
+- !lcsh 'Mysticism -- Iran'
+- !lcc 'PK'
+- !lcsh 'Persian literature -- Translations into English'
+tableOfContents: 'Introduction -- The life and work of Jalálu''d-Dín Rúmí -- Selections
+  from the "Divani Shamsi Tabriz" -- Selections from the "Masnavi" -- Appendix: A
+  note on Persian poetry.'
+title: 'The Persian Mystics: Jalálu''d-dín Rúmí'
+url: http://www.gutenberg.org/ebooks/45159
